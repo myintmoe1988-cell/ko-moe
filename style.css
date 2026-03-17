@@ -128,3 +128,5 @@ box-shadow:0 4px 10px rgba(0,0,0,0.3);
 .messenger:hover{
 background:#006fe0;
 }
+
+html{scroll-behavior:smooth:}
