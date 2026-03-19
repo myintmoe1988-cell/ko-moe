@@ -170,3 +170,27 @@ border-radius: 25px;
 text-decoration: none;
 }
 
+------ TR visa apply -------
+  /* Detail Section */
+
+.detail-box {
+  background: #3A3A3A;
+  padding: 25px;
+  margin-top: 25px;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.detail-box:hover {
+  background: #4A4A4A;
+  transform: translateY(-3px);
+}
+
+.detail-box h2 {
+  margin-bottom: 10px;
+}
+
+.detail-box p {
+  color: #BFBFBF;
+}
+----- -------
