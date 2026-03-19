@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DTV Visa Apply - True Nest BKK Service</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Myanmar&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>DTV Visa Apply</h1>
+  <p>Professional Visa Service from Laos</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="#laos">Apply in Laos</a>
+  <a href="#requirements">Requirements</a>
+  <a href="#about">About DTV Visa</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+
+  <!-- Laos -->
+  <div id="laos" class="detail-box">
+
+    <h2>DTV Visa Apply in Laos</h2>
+    <p>
+      We provide DTV Visa application service in Laos for all nationalities.
+    </p>
+    <p>
+      Due to unstable requirements in other embassies, it is difficult to prepare documents properly.
+      Therefore, we recommend applying in Laos.
+    </p>
+
+    <h3>မြန်မာဘာသာ</h3>
+    <p>
+      DTV Visa ကို မည်သည့်နိုင်ငံသားမဆို လာအိုနိုင်ငံတွင် လျှောက်ထားပေးပါသည်။
+    </p>
+    <p>
+      အခြားနိုင်ငံ သံရုံးများတွင် requirements မတည်ငြိမ်သောကြောင့် 
+      documents ပြင်ဆင်ရန် ခက်ခဲနိုင်ပါသည်။
+      ထို့ကြောင့် လာအိုနိုင်ငံတွင် လျှောက်ထားရန် အကြံပြုပါသည်။
+    </p>
+
+  </div>
+
+  <!-- Requirements -->
+  <div id="requirements" class="detail-box">
+
+    <h2>Requirements</h2>
+
+    <ul>
+      <li>Passport</li>
+      <li>Age (20 – 49 years old for main applicant)</li>
+      <li>Show Money (500,000 THB or equivalent)</li>
+      <li>Bankbook Front Page</li>
+      <li>Bank Statement</li>
+      <li>Mobile Banking Screenshot</li>
+    </ul>
+
+    <h3>မြန်မာဘာသာ</h3>
+    <ul>
+      <li>Passport</li>
+      <li>Main Applicant အသက် 20 မှ 49 အတွင်း</li>
+      <li>Show Money (500,000 THB သို့မဟုတ် ငွေကြေးတန်ဖိုးညီမျှ)</li>
+      <li>ဘဏ်စာအုပ် ရှေ့စာမျက်နှာ</li>
+      <li>Bank Statement</li>
+      <li>Mobile Banking Screenshot</li>
+    </ul>
+
+    <p>
+      Additional requirements may vary depending on each applicant.
+    </p>
+
+    <p>
+      လိုအပ်သော အချက်အလက်များသည် တစ်ဦးချင်းအခြေအနေအပေါ် မူတည်ပြီး ကွာခြားနိုင်ပါသည်။
+      ထို့ကြောင့် ရုံးသို့လာရောက်၍ ဆွေးနွေးပြီးမှ documents ပြင်ဆင်ရန် အကြံပြုပါသည်။
+    </p>
+
+  </div>
+
+  <!-- Dependent -->
+  <div class="detail-box">
+
+    <h2>Dependent Applicants</h2>
+
+    <ul>
+      <li>Husband or Wife (under 50 years old)</li>
+      <li>Children (under 20 years old)</li>
+    </ul>
+
+    <h3>မြန်မာဘာသာ</h3>
+    <ul>
+      <li>အိမ်ထောင်ဖက် (အသက် 50 အောက်)</li>
+      <li>သားသမီးများ (အသက် 20 အောက်)</li>
+    </ul>
+
+  </div>
+
+  <!-- Processing -->
+  <div class="detail-box">
+
+    <h2>Processing Time</h2>
+
+    <p>1 – 3 weeks</p>
+    <p>Interview may be required depending on embassy decision.</p>
+
+    <h3>မြန်မာဘာသာ</h3>
+    <p>ကြာချိန် ၁ပတ်မှ ၃ပတ်အတွင်း</p>
+    <p>
+      သံအရာရှိ၏ ဆုံးဖြတ်ချက်အပေါ်မူတည်၍ Interview ဝင်ရနိုင်ပါသည်။
+    </p>
+    <p>
+      Interview မခေါ်လျှင် Visa approve ဖြစ်ပါမည်။
+    </p>
+    <p>
+      Interview ခေါ်ပါက ကြိုတင်ပြင်ဆင်ပေးပါသည်။
+    </p>
+
+  </div>
+
+  <!-- About -->
+<div id="about" class="detail-box">
+
+  <h2>About DTV Visa</h2>
+
+  <p>
+    DTV Visa is an original Multiple Entry Visa that allows long-term stay in Thailand.
+  </p>
+
+  <p>
+    This visa is valid for up to 5 years and does not require mandatory extension.
+  </p>
+
+  <p>
+    Each entry allows a stay of up to 180 days. 
+    You can exit and re-enter Thailand to continue your stay.
+  </p>
+
+  <p>
+    DTV Visa is issued by the embassy, not by immigration, 
+    making it one of the few long-term visas granted directly by the embassy.
+  </p>
+
+  <p>
+    Since financial requirements (show money) are already verified during approval, 
+    it may support and strengthen applications for visas in other countries.
+  </p>
+
+  <p>
+    Unless restricted for specific reasons, 
+    this visa allows legal entry and exit through most international border checkpoints.
+  </p>
+
+  <p>
+    Among long-term visas in Thailand, DTV Visa is considered one of the most cost-effective 
+    and flexible options for staying long-term.
+  </p>
+
+  <h3>မြန်မာဘာသာ</h3>
+
+  <p>
+    DTV Visa သည် Original Multiple Entry Visa ဖြစ်ပြီး 
+    ထိုင်းနိုင်ငံတွင် ရေရှည်နေထိုင်နိုင်သော Visa ဖြစ်ပါသည်။
+  </p>
+
+  <p>
+    ဤ Visa သည် တစ်ကြိမ်တည်း ၅ နှစ် သက်တမ်းရရှိပြီး 
+    သက်တမ်းတိုးရန် မဖြစ်မနေ မလိုအပ်ပါ။
+  </p>
+
+  <p>
+    တစ်ကြိမ်ဝင်တိုင်း 180 ရက် နေထိုင်ခွင့်ရရှိပြီး 
+    နိုင်ငံပြင် အဝင်အထွက် ပြုလုပ်၍ ဆက်လက်နေထိုင်နိုင်ပါသည်။
+  </p>
+
+  <p>
+    DTV Visa သည် Immigration မှ မဟုတ်ဘဲ 
+    Embassy မှ တိုက်ရိုက်ထုတ်ပေးသော နှစ်ရှည် Visa တစ်ခုဖြစ်ပါသည်။
+  </p>
+
+  <p>
+    Show Money ကို ကြိုတင်စီစစ်ပြီး approve လုပ်ထားသောကြောင့် 
+    တတိယနိုင်ငံ Visa လျှောက်ထားရာတွင် အထောက်အကူပြုနိုင်ပါသည်။
+  </p>
+
+  <p>
+    နိုင်ငံရေး သို့မဟုတ် ပုဂ္ဂိုလ်ရေး အထူးကိစ္စများ မရှိပါက 
+    မည်သည့် Border Point မှမဆို တရားဝင် ဝင်ထွက်သွားလာနိုင်ပါသည်။
+  </p>
+
+  <p>
+    ထိုင်းနိုင်ငံတွင် ရေရှည်နေထိုင်နိုင်သော Visa များထဲတွင် 
+    ကုန်ကျစရိတ်အနည်းဆုံးနှင့် အကောင်းဆုံး Visa တစ်ခုဖြစ်ပါသည်။
+  </p>
+
+</div>
+
+  <!-- CTA -->
+  <div class="contact-box">
+    <h2>Need Help?</h2>
+    <p>Please visit our office for consultation.</p>
+
+    <a href="contact.html" class="contact-btn">
+      Contact Us
+    </a>
+  </div>
+
+</section>
+
+<footer>
+  <p>True Nest BKK Service</p>
+  <p>Bangkok, Thailand</p>
+</footer>
+
+<a href="https://m.me/truenestbkkservice" class="messenger">
+  Messenger
+</a>
+
+</body>
+</html>
