@@ -102,9 +102,15 @@ Contact Us
 Messenger
 </a>
 
-<button class="back-btn" onclick="history.back()">
-  ← Back
-</button>
+<script>
+function goBack(){
+  if (document.referrer !== "") {
+    history.back();
+  } else {
+    window.location.href = "index.html"; // fallback
+  }
+}
+</script>
   
 </body>
 
